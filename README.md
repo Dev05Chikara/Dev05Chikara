@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me through my e-mail: devchikara0705@gmail.com 
 
 <!---
 Dev05Chikara/Dev05Chikara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
